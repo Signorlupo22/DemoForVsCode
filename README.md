@@ -1,5 +1,3 @@
-why are you waching the old commits?
-
 # DevLearn Demo 
 
 Welcome to the DevLearn Demo! This README will guide you through the key features of DevLearn,
@@ -25,3 +23,16 @@ and experience some of the key features that make DevLearn unique.
 
 ## Important 
 the git clone work only if your direcotry is empty, if you try to git clone on an notempty folder git give you an error
+
+
+## Providing Feedback
+I’m always excited to receive new ideas and suggestions! After testing DevLearn's features, I’d love to hear your feedback. W
+hether you have ideas for new functionalities, 
+notice any bugs, or just have general comments, your input is crucial to making DevLearn the best it can be.
+you can make an Issues or contact me 
+
+
+## Contact
+If you have any questions, need support, or want to share your feedback, please reach out via email at support@devlearn.com(dosen't exist). I’m here to help and look forward to hearing from you!
+
+
